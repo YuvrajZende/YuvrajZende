@@ -4,7 +4,7 @@
 <p align="center">
   🚀 3rd-year UG Engineering Student | India 🇮🇳 <br/>
   💡 Passionate about AI/ML, startups & building impactful products <br/>
-  🔍 Exploring GenAI, LLMs & product engineering
+  🔍 Exploring GenAI, LLMs & RAG
 </p>
 
 ---
