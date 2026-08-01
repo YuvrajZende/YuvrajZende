@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer • Tech Explorer • Product Thinker</h3>
 
 <p align="center">
-🚀 3rd-year UG Engineering Student | India 🇮🇳 <br/>
+🚀 4th-year UG Engineering Student | India 🇮🇳 <br/>
 💡 Passionate about AI/ML, startups & building impactful products <br/>
 🔍 Exploring GenAI, LLMs & RAG Systems
 </p>
